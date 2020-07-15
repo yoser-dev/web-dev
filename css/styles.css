@@ -158,6 +158,7 @@ clear: both;
 }
 .countdown {
 text-align:center;
+padding-right: 30% !important;
 }
 .intro{
 font-size:22px;
