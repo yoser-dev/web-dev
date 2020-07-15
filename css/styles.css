@@ -1,7 +1,4 @@
-/*
-Author: WebThemez
-Author URL: http://webthemez.com 
-*/
+
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,800,600); 
 @import url(https://fonts.googleapis.com/css?family=Audiowide);
 body {
@@ -10,7 +7,7 @@ body {
 	height:100%;
 	width:100%;
 	margin:0;
-	background: #000000;
+	background: #030513;
 }
 .ie body {
 	filter: dropshadow(color=#000000, offx=0, offy=1);	
