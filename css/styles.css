@@ -101,7 +101,7 @@ width:34px;
 height:34px; 
 display: inline-block;
 }
-.twitterIcon, .facebookIcon, .linkedInIcon, .pintrestIcon{background: url('../images/social-icons.png') -74px 0px;}
+.twitterIcon, .facebookIcon, .linkedInIcon, .pintrestIcon{background: url('../img/social-icons.png') -74px 0px;}
 .facebookIcon{
 background-position: 10px 0px;
 }
